@@ -24,8 +24,8 @@ import os
 mainDirectory = "/Users/m209884/Dropbox/Imaging_SexDifferences/iMacFolders/tomas/"
 dataDirectory = "/Users/m209884/Dropbox/Imaging_SexDifferences/Analysis/data"
 
-mainDirectory = "/Users/kwsingleton/Dropbox/Imaging_SexDifferences/iMacFolders/tomas/"
-dataDirectory = "/Users/kwsingleton/Dropbox/Imaging_SexDifferences/Analysis/data"
+# mainDirectory = "/Users/kwsingleton/Dropbox/Imaging_SexDifferences/iMacFolders/tomas/"
+# dataDirectory = "/Users/kwsingleton/Dropbox/Imaging_SexDifferences/Analysis/data"
 
 # mainDirectory = "/Users/andreahawkins-daarud/Dropbox/Imaging_SexDifferences/iMacFolders/tomas/"
 # dataDirectory = "/Users/andreahawkins-daarud/Dropbox/Imaging_SexDifferences/Analysis/data"
